@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: I love superhero and cop TV shows.
 - 🌱 I’m currently learning **Scala**.
+- 🔭 I’m currently pursuing DataCamp's Data Scientist Professional Certificate.
 -->
 
-- 🔭 I’m currently pursuing DataCamp's Data Scientist Professional Certificate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
