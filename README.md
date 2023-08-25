@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Clinton A.</h1>
 <h1 align="center">Welcome!</h1>
 
+<div align="center"> <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/data_scientist_professional_linkedin.png"> </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonasoh&label=Profile%20views&color=0e75b6&style=flat" alt="clintonasoh"/> </p>
 
 
