@@ -53,9 +53,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Socials:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/asoh-itambi" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="asoh-itambi" height="30" width="40"/> 
-  </a>
+<a href="https://www.linkedin.com/in/asoh-itambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asoh-itambi" height="30" width="40"/></a>
+  
 <a href="https://kaggle.com/iclinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iclinb" height="30" width="40" /></a>
 <a href="https://twitter.com/clintonitambi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="clintonitambi" height="30" width="40" /></a>
 <a href="https://instagram.com/iclinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iclinb" height="30" width="40" /></a>
