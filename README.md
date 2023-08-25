@@ -9,23 +9,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonasoh&label=Profile%20views&color=0e75b6&style=flat" alt="clintonasoh"/> </p>
 
 
-<!--
-**clintonasoh/clintonasoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **my master's degree thesis.**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/clintonasoh](https://github.com/clintonasoh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ⚡ Fun fact: I love superhero and cop TV shows.
-- 🌱 I’m currently learning **Scala**.
-- 🔭 I’m currently pursuing DataCamp's Data Scientist Professional Certificate.
--->
+- 📫 How to reach me [clintonasoh@gmail.com](clintonasoh@gmail.com)
+
 
 <h3 align="center">Skills:</h3>
 <p align="center"> 
