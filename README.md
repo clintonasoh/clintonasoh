@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/clintonasoh](https://github.com/clintonasoh)
 
-- 📫 How to reach me [clintonasoh@gmail.com](clintonasoh@gmail.com)
+- 📫 How to reach me [clintonasoh@gmail.com](mailto:clintonasoh@gmail.com)
 
 
 <h3 align="center">Skills:</h3>
