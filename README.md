@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonasoh&label=Profile%20views&color=0e75b6&style=flat" alt="clintonasoh"/> </p>
 
 
-- 🔭 I’m currently working on **my master's degree thesis.**
+- 🔭 I’m currently working on **my thesis for an MSc. in Computer Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/clintonasoh](https://github.com/clintonasoh)
 
