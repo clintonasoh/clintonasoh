@@ -43,7 +43,7 @@
 
 </p>
 
-<div align="left"> <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/data_scientist_professional_badge.png"> </div>
+<div align="center"> <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/data_scientist_professional_badge.png"> </div>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clintonasoh&show_icons=true&locale=en" alt="clintonasoh" /></p>
