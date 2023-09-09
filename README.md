@@ -6,9 +6,6 @@
 
 <div align="left"> <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/data_scientist_professional_badge.png"> </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonasoh&label=Profile%20views&color=0e75b6&style=flat" alt="clintonasoh"/> </p>
-
-
 - 🔭 I’m currently working on **my thesis for an MSc. in Computer Engineering.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/clintonasoh](https://github.com/clintonasoh)
@@ -45,6 +42,8 @@
 <a href="https://instagram.com/iclinb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iclinb" height="30" width="40" /></a>
 
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonasoh&label=Profile%20views&color=0e75b6&style=flat" alt="clintonasoh"/> </p>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clintonasoh&show_icons=true&locale=en" alt="clintonasoh" /></p>
