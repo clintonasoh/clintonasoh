@@ -41,6 +41,7 @@
 
 </p>
 
+<h3 align="center">Certifications:</h3>
 <div align="center"> 
   
   <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/data_scientist_professional_badge.png" width="74" height="86"> 
