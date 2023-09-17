@@ -45,7 +45,7 @@
   
   <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/data_scientist_professional_badge.png" width="74" height="86"> 
   <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/data_analyst_professional_badge.png"> 
-  <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/GCC_badge_DA.png" alt="GCC Badge" width="210" height="210">
+  <img src="https://github.com/clintonasoh/Case-Study-Central/blob/main/datasets/GCC_badge_DA.png" alt="GCC Badge" width="74" height="86">
 
 </div>
 
