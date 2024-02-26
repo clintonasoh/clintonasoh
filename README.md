@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clintonasoh&label=Profile%20views&color=0e75b6&style=flat" alt="clintonasoh"/> </p>
 
 - 🔭 I'm currently working on my **MSc. thesis in Computer Engineering**.
+-  🔭 I'm currently working on **Medical Image Analysis with AI**.
 - 👨‍💻 All my projects are available at [https://github.com/clintonasoh](https://github.com/clintonasoh)
 
 - 📫 How to reach me: [clintonasoh@gmail.com](mailto:clintonasoh@gmail.com)
