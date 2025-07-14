@@ -9,7 +9,6 @@
 - 🔭 I'm currently working on my **MSc. thesis in Computer Engineering**.
 -  🔭 I'm currently working on **Medical Image Analysis with AI**.
 -->
-👨‍💻 All my projects are available at [https://github.com/clintonasoh](https://github.com/clintonasoh)
 👨‍💻 All my projects are available at <a href="https://github.com/clintonasoh" target="_blank">https://github.com/clintonasoh</a>
 
 📫 How to reach me: [clintonasoh@gmail.com](mailto:clintonasoh@gmail.com)
